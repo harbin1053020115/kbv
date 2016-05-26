@@ -1,0 +1,19 @@
+{
+  "name": "kbv",
+  "version": "0.0.1",
+  "description": "a nodejs framework base on koa/vue, features bigpipe and isomorphic",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harbin1053020115/kbv.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harbin1053020115/kbv/issues"
+  },
+  "homepage": "https://github.com/harbin1053020115/kbv#readme"
+}
